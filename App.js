@@ -3,9 +3,9 @@ import {View, StatusBar, StyleSheet} from 'react-native';
 
 /**
  * Trabalho de React Native
- * 
- * Demonstração: 
- *  https://snack.expo.io/50B7b2urV
+ *
+ * Demonstração:
+ *  https://snack.expo.io/Tk4_2jb4L
  * @author Álec
  */
 
@@ -117,3 +117,4 @@ const style = StyleSheet.create({
 });
 
 export default App;
+
